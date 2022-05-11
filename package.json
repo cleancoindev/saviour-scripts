@@ -8,7 +8,7 @@
     "start": "node scripts/snapshot.js"
   },
   "dependencies": {
-    "@studydefi/money-legos": "^2.4.1",
+    "@studydefi/money-legos": "^2.4.2",
     "abi-decoder": "^2.3.0",
     "ethers": "^5.0.14"
   },
