@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@studydefi/money-legos": "^2.4.1",
-    "abi-decoder": "^2.3.0",
+    "abi-decoder": "^2.4.0",
     "ethers": "^5.0.14"
   },
   "devDependencies": {
